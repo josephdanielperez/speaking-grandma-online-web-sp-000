@@ -1,12 +1,5 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma(phrase)
-  if phrase
-    return
-  elsif
-    return
-  else
-    return
-  end
+def speak_to_grandma
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
